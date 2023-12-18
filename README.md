@@ -1,0 +1,1 @@
+Web application that allow patients to book appointments with doctors from hospitals of their choice and enabling the patients to view their past medical history in a single page, thereby helping the doctors to provide diagnosis based on past medical history and better understand the patient.
